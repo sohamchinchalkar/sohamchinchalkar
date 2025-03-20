@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sohamchinchalkar@gmail.com**
 
-- 📄 Know about my experiences [(Resume)](https://github.com/sohamchinchalkar/Soham-s-Resume/blob/main/Soham%20Chinchalkar_Resume.pdf)
+- 📄 Know about my experiences [(Resume)](https://github.com/sohamchinchalkar/Soham-s-Resume/blob/main/Soham_resume.pdf)
 
 - 🎞️ My research work [(SCOPUS PROFILE)](https://www.scopus.com/authid/detail.uri?authorId=58929595700)
 
